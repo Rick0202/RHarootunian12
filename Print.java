@@ -4,7 +4,7 @@ public class Print {
     int i = 0;
     while (i <= 4) {
     i++;
-    System.out.println(i + ".  Welcome to Java!");
+    System.out.println(i + ".  Welcome to Javas!");
   }
  }
 
